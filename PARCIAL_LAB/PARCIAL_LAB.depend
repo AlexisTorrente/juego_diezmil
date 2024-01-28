@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1595594630 source:c:\users\pc\desktop\parcial_lab_alexis_torrente_utn\parcial_lab\dados.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+
+1594831956 c:\users\pc\desktop\parcial_lab_alexis_torrente_utn\parcial_lab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1595107000 source:c:\users\pc\desktop\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego_diezmil.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+
+1595432120 source:c:\users\pc\desktop\parcial_lab_alexis_torrente_utn\parcial_lab\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<ctime>
+	<cstring>
+	"funciones_juego.h"
+
+1594831956 c:\users\pc\desktop\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego.h
+
+1595594632 source:c:\users\usurio\onedrive\escritorio\universidad\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\dados.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+
+1594831958 c:\users\usurio\onedrive\escritorio\universidad\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1595595298 source:c:\users\usurio\onedrive\escritorio\universidad\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego_diezmil.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+
+1595432122 source:c:\users\usurio\onedrive\escritorio\universidad\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<ctime>
+	<cstring>
+	"funciones_juego.h"
+
+1594831958 c:\users\usurio\onedrive\escritorio\universidad\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego.h
+
+1705774870 source:c:\users\usurio\onedrive\documentos\universidad\tup\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\dados.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+
+1594831958 c:\users\usurio\onedrive\documentos\universidad\tup\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1595595298 source:c:\users\usurio\onedrive\documentos\universidad\tup\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego_diezmil.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+
+1706043036 source:c:\users\usurio\onedrive\documentos\universidad\tup\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<ctime>
+	<cstring>
+	"funciones_juego.h"
+
+1594831958 c:\users\usurio\onedrive\documentos\universidad\tup\lab 2\parcial_lab_alexis_torrente_utn\parcial_lab\funciones_juego.h
+
